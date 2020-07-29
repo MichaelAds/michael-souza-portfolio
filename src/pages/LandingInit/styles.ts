@@ -22,6 +22,7 @@ export const Access = styled.div`
         border-radius: 100%;
         width: 250px;
         height: 250px;
+        box-shadow: 0px -6px 34px 14px #35414e;
     }
 
     h1 {
