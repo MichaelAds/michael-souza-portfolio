@@ -20,8 +20,8 @@ export const Access = styled.div`
         background-size: cover;
         background-image: url(${Logo});
         border-radius: 100%;
-        width: 300px;
-        height: 300px;
+        width: 250px;
+        height: 250px;
     }
 
     h1 {
